@@ -1,4 +1,3 @@
 class Person:
-    name = "name"
-    def __init__(construktor):
-        pass
+    def __init__(self, name):
+        self.name = name
