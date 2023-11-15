@@ -1,3 +1,4 @@
 from create_one_attribute import Person
+person = Person(name="Ali")
 
-#create an object named "person" whose name is "Ali"
+print(f"Name: {person.name}")
